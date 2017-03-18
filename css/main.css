@@ -1,0 +1,126 @@
+
+* {
+	margin: 0;
+	color: #fcbd70;
+;
+}
+
+span {
+	font-weight: bold;
+}
+
+/* 
+LOGO
+*/
+
+.logo {
+	display: inline;
+	position: absolute;
+}
+
+.logo span {
+	color: #ffe0b3;
+}
+
+.logo p {
+	font-size: 20px;
+	margin-left: 30%;
+	padding-top: 30px;
+	width: 400px;
+}
+
+/* 
+NAV BAR
+*/
+
+nav {
+	background-color: #fc7f09;
+	color: #fcbd70;
+	height: 80px;
+
+}
+
+nav ul {
+	float: right;
+	padding-top: 30px;
+}
+
+nav li {
+	display: inline;
+	padding-right: 50px;
+	margin-bottom: 20px;
+	
+}
+
+nav li a {
+	color: #ffe0b3;
+	text-decoration: none;
+}
+
+/* CONTENT */
+
+.content {
+	float: right;
+	height: 400px;
+	width: 45%;
+	text-align: center;
+	font-size: 27px;
+	margin: 50px 50px 0 0;
+	padding-top: 50px;
+}
+
+.contentLogo {
+	color: #f90;
+}
+
+.contentText {
+	color: #7accc8;
+}
+
+.quoteButton {
+	background-color: #fc7f09;
+	height: 30px;
+	width: 200px;
+	border: 1px outset;
+}
+
+.caseButton {
+	background-color: #7accc8;
+	height: 30px;
+	width: 200px;
+	border: 1px outset;
+}
+
+/*ORANGE IMAGE */
+
+.divOrange {
+	background-image: url('../img/orange.png');
+	background-size: cover;
+	height: 400px;
+	width: 45%;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+
+/*
+FOOTER
+*/
+
+footer {
+	background-color: #7ACCC8;
+	height: 80px;
+	width: 100%;
+	clear: both;
+	padding-bottom: 18px;
+
+}
+
+
+
+
+
+
+
+
+
+
